@@ -1,5 +1,5 @@
 # Weather_App
-[link to view project:] " https://murarichowdary.github.io/Weather_App/"
+[link to view project:] "(https://murarichowdary.github.io/Weather_App/)"
 
 This Weather App allows users to get real-time weather data for any location worldwide. It provides essential weather information such as temperature, humidity, weather description, and feels-like temperature. The app also includes a "Current Location" feature, using geolocation to fetch weather data for the user's current location.
 
@@ -25,7 +25,7 @@ How to Run the Project:
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/weather-app.git
+git clone: https://github.com/MurariChowdary/Weather_App.git
 Open the project in a code editor.
 Open index.html in the browser to see the application in action.
 
